@@ -1,4 +1,4 @@
-# ft_printf-125-
+# ft_printf-100-
 the second project in 42 &lt;create your own printf function>
 
 📌 ft_printf
